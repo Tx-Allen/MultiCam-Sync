@@ -123,17 +123,3 @@ player/multi_video_player.py: Contains the main window class and global controls
 player/video_item.py: Contains the VideoItem class that manages individual videos and local controls.
 **player/video_item.py：**包含管理各视频项及其本地控制的 VideoItem 类。
 
-README.md: This file.
-**README.md：**本文档。
-
-License / 许可证
-(Add your license information here, e.g., MIT License)
-（在此添加您的许可证信息，例如 MIT 许可证。）
-
-Contributing / 贡献
-Contributions are welcome! Feel free to fork the repository and submit pull requests.
-欢迎贡献！请随意 fork 仓库并提交 pull request。
-
-Contact / 联系方式
-For any questions or suggestions, please contact [Your Email] or open an issue on GitHub.
-如有任何问题或建议，请通过 [Your Email] 与我联系，或在 GitHub 上提交 issue.
